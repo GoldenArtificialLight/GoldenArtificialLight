@@ -7,7 +7,7 @@ Olá! Meu nome é Lucas e eu sou estudante da área de tecnologia. Atualmente es
 
 ## Linguagens
 
-Não possuo domínio em nenhuma linguagem, no entanto busco expertise em linguagens de baixo nível (C, C++, Assembly e a mais moderna Rust),linguagens de scripting para SOs (batch, powershell e bash) e linguagens de shader (GLSL)
+Não possuo domínio em nenhuma linguagem, no entanto busco expertise em linguagens de baixo nível (C, C++, Assembly e a mais moderna Rust), linguagens de scripting para SOs (batch, powershell e bash) e linguagens de shader (GLSL)
 
 ### Posso me virar
 
@@ -19,12 +19,11 @@ Não possuo domínio em nenhuma linguagem, no entanto busco expertise em linguag
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GDScript](https://img.shields.io/badge/gdscript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![BashScript](https://img.shields.io/badge/bash%20script-0101?style=for-the-badge&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000)
 
 ### Futuramente
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![BashScript](https://img.shields.io/badge/bash%20script-0101?style=for-the-badge&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000)
-
 ![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![Powershell](https://img.shields.io/badge/Powershell-00329C?style=for-the-badge&logoColor=white)
 
