@@ -7,7 +7,7 @@ Olá! Meu nome é Lucas e eu sou estudante da área de tecnologia. Atualmente es
 
 ## Linguagens
 
-Não possuo domínio em nenhuma linguagem, no entanto busco expertise em linguagens de baixo nível (C, C++, Assembly e a mais moderna Rust), linguagens de scripting para SOs (batch, powershell e bash), linguagens de shader (GLSL), e pelo menos uma linguagem de propósito geral (atualmente focando em C#)
+Não possuo domínio em nenhuma linguagem, no entanto gosto de usar linguagens de baixo nível (C, C++, Assembly e a mais moderna Rust), linguagens de scripting para SOs (batch, powershell e bash), linguagens de shader (GLSL), e linguagens de propósito geral (atualmente focando em C#)
 
 ### Posso me virar
 
