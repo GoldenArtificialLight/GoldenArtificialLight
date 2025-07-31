@@ -12,15 +12,17 @@ Não possuo domínio em nenhuma linguagem, no entanto busco expertise em linguag
 ### Posso me virar
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Batch](https://img.shields.io/badge/Batch-000000?style=for-the-badge&logoColor=white)
 
 ### Sei o básico
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GDScript](https://img.shields.io/badge/gdscript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![BashScript](https://img.shields.io/badge/bash%20script-0101?style=for-the-badge&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000)
+![SuperCollider](https://img.shields.io/badge/SuperCollider-white?logo=SuperCollider&labelColor=yellow)
+
 
 ### Futuramente
 
