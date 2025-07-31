@@ -21,7 +21,7 @@ Não possuo domínio em nenhuma linguagem, no entanto busco expertise em linguag
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![GDScript](https://img.shields.io/badge/gdscript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![BashScript](https://img.shields.io/badge/bash%20script-0101?style=for-the-badge&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000)
-![SuperCollider](https://img.shields.io/badge/SuperCollider-white?labelColor=yellow)
+![SuperCollider](https://img.shields.io/badge/SuperCollider-white?style=for-the-badge&logo=SuperCollider&labelColor=yellow)
 
 
 ### Futuramente
