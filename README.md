@@ -7,14 +7,14 @@ Olá! Meu nome é Lucas e eu sou estudante da área de tecnologia. Atualmente es
 
 ## Linguagens
 
-Não possuo domínio em nenhuma linguagem, no entanto busco expertise em linguagens de baixo nível (C, C++, Assembly e a mais moderna Rust), linguagens de scripting para SOs (batch, powershell e bash) e linguagens de shader (GLSL)
+Não possuo domínio em nenhuma linguagem, no entanto busco expertise em linguagens de baixo nível (C, C++, Assembly e a mais moderna Rust), linguagens de scripting para SOs (batch, powershell e bash), linguagens de shader (GLSL), e pelo menos uma linguagem de propósito geral (atualmente focando em C#)
 
 ### Posso me virar
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Batch](https://img.shields.io/badge/Batch-000000?style=for-the-badge&logoColor=white)
 
-### Ainda aprendendo
+### Sei o básico
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
